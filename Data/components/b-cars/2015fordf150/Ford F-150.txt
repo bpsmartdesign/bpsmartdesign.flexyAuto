@@ -1,0 +1,24 @@
+EXTERIOR COLOUR
+Black
+
+INTERIOR COLOUR
+Black
+
+BODY STYLE
+Pickup Truck
+
+FUEL TYPE
+Gasoline
+
+DRIVE TYPE
+4-Wheel Drive
+
+TRANSMISSION
+Automatic
+ENGINE
+
+8-cylinder
+DOORS
+4-door
+
+$25000

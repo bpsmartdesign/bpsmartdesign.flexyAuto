@@ -1,0 +1,14 @@
+EXTERIOR COLOUR:Black
+INTERIOR COLOURBeige
+BODY STYLE:Coupe
+FUEL TYPE:Gasoline
+DRIVE TYPE:Rear Wheel Drive
+TRANSMISSION:Automatic
+ENGINE:6-cylinder
+DOORS:2-door
+PASSENGERS:5
+
+
+
+
+
